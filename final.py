@@ -3,12 +3,6 @@ MIT BWSI Autonomous RACECAR
 MIT License
 racecar-neo-outreach-labs
 
-File Name: Team7_MiniGrandPrix.py
-
-Title: Final Challenge Code
-
-Team 7
-
 """
 
 ########################################################################################
